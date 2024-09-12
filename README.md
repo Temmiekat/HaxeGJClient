@@ -23,4 +23,4 @@ If you have questions about how to use this client correctly, you're free to tal
 
 ## Special Thanks
 - [TentaRJ](https://github.com/TentaRJ): (Big Inspiration)
-- [xMediKat](https://www.xmedikat.live): (Supporter)
+- [xMediKat](https://www.youtube.com/@xMediKat): (Supporter)
